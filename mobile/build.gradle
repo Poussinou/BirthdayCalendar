@@ -25,7 +25,7 @@ android {
         applicationId 'saschpe.contactevents'
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 160143
+        versionCode 160144
         versionName '1.4.3'
         archivesBaseName = "${applicationId}-${versionName}"
         testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
